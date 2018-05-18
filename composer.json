@@ -1,5 +1,6 @@
 {
-  "autoload": {
-    "classmap": ["app/lib/", "app/controllers/MeprAppCtrl.php", "tests/factories/", "tests/MeprUnitTestCase.php"]
-  }
+	"name": "wp-premium/memberpress-basic",
+	"autoload": {
+		"classmap": ["app/lib/", "app/controllers/MeprAppCtrl.php", "tests/factories/", "tests/MeprUnitTestCase.php"]
+	}
 }
